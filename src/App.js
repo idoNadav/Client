@@ -15,7 +15,7 @@ import ResetPassword from "./Components/Pages/ResetPassword";
 
 
 let axiosDefaults = require('axios/lib/defaults');
-axiosDefaults.baseURL = 'http://localhost:8080' ;
+axiosDefaults.baseURL = 'https://aqueous-mountain-72712.herokuapp.com' ;
 
 
 class App extends React.Component {
