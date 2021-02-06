@@ -70,7 +70,7 @@ class Login extends Component {
         return (
             <div className="bg-img" onSubmit={this.postData}>
             <div className="content">
-                <header>dddddddddddddddn</header>
+                <header>Login</header>
                 <form className="log_in_form" id="log_in_form">
                     <div className="field">
                         <span className="fa fa-user"/>
